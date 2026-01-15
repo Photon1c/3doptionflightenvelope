@@ -23,7 +23,7 @@ The 4th dimension (time) is represented through sequential telemetry frames.
 ### Module Structure
 
 ```
-fineagle/4dflight/
+/3doptionflightenvelope/
 ├── __init__.py           # Package exports
 ├── envelope.py           # Flight envelope geometry and coordinate mapping
 ├── dynamics.py           # Synthetic path generators
